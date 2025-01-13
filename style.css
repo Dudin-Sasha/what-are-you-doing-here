@@ -1,0 +1,27 @@
+.tables{
+    margin: 0 40px;
+}
+img{width: 10vw; height: 10vh;}
+#boots{width: 25vw;}
+#boots>p{text-align: center; margin: 0 40px;}
+#back{
+    background-image: url(images/msedge_IDJpZ4RZZA.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24vh; width: 27vw;
+}
+#pink{background-color: rgb(230, 129, 146);}
+#green{background-color: green;}
+#gray{background-color: gray;}
+#orange{background-color: orange;}
+#rainbow{width: 20vw; height: 15vh;}
+#arial{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: x-large;
+}
+#bigger{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-size: xx-large;
+}
